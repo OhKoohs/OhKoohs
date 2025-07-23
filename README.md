@@ -162,19 +162,6 @@
 
 ---
 
-### 🧠 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=OhKoohs&theme=radical&no-frame=true&no-bg=true&margin-w=10" />
-</div>
-
----
-
-### 🕓 GitHub Contributions
-<div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=OhKoohs&theme=dracula" alt="GitHub Contribution Graph" />
-</div>
-
-
 ### 🧠 Frase Final
 
 > “El código es como el arte — pero que funciona.”  
