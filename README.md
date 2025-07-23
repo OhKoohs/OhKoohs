@@ -1,13 +1,13 @@
 <h1 align="center">🚀 Juan Pablo Morales Herrera — @OhKoohs</h1>
-<h3 align="center">🧠 Web Developer | 💻 Full Stack | 🛡️ Cybersecurity Enthusiast | 🇨🇷 Costa Rica</h3>
+<h3 align="center">Full Stack Developer | Systems Engineer | Cybersecurity Expert 🇨🇷</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F7C52F&center=true&vCenter=true&lines=Web+Developer+from+Costa+Rica;Systems+Engineer+%7C+Cybersecurity+Expert;Open+Source+Contributor;Loves+clean+code+and+automation" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&color=0FFCC6FF&lines=Building+Powerful+Web+Experiences;Crafting+Secure+and+Scalable+Solutions;From+Costa+Rica+to+the+World" />
 </p>
 
 ---
 
-### 📊 GitHub Stats & Visuals
+### 📈 GitHub Overview
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OhKoohs&show_icons=true&count_private=true&theme=tokyonight&hide_border=false" width="450"/>
@@ -15,91 +15,97 @@
   <br />
   <img src="https://github-profile-trophy.vercel.app/?username=OhKoohs&theme=dracula&column=6&margin-w=10&margin-h=15" />
   <br />
-  <img src="https://komarev.com/ghpvc/?username=OhKoohs&label=Profile+Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=OhKoohs&label=Profile+Views&color=blueviolet&style=flat-square" />
 </div>
 
 ---
 
 ### 🧠 About Me
 
-- 🎓 Systems Engineer & self-taught full stack developer  
-- 🌐 Passionate about Web Development, Security, and Infrastructure  
-- 💼 Founder of **Cognixion Studio**, building tools for creators & businesses  
-- 🎮 Game modder, server manager, and dev for Minecraft & Discord ecosystems  
-- ☕ Coffee-powered & committed to lifelong learning  
-- 🔒 Believer in privacy, open-source ethics, and tech with purpose  
+- 🧑‍💻 Systems Engineer + Cybersecurity Enthusiast with 5+ years in tech
+- 🧩 Versatile full stack developer working with modern JS/TS stacks
+- 🧠 Logical thinker + problem solver + performance optimizer
+- 🏗️ Founder of **Cognixion Studio** — Web, Modding & Tech Solutions
+- ✨ I value open source, creative collaboration, and clean code
 
 ---
 
-### 🛠️ Tech Stack
+### 🚀 Featured Projects
 
-#### Frontend
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
-</div>
+| Project | Description | Tech |
+|--------|-------------|------|
+| [Pulpería Tío Alfredo](https://github.com/OhKoohs/PulperiaTioAlfredo) | Gestión de inventario para microempresas (Tkinter + SQLite) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Tkinter](https://img.shields.io/badge/-Tkinter-FFCA28?style=flat&logo=python) |
+| [Minecraft Mod Suite](https://github.com/OhKoohs/MinecraftModSuite) | Herramientas de administración y personalización para servidores Minecraft | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) |
+| [Cognixion Studio](https://github.com/OhKoohs/CognixionStudio) | Plataforma creativa modular: web, juegos, bots y seguridad | ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=nextdotjs) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react) |
 
-#### Backend & DevOps
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" />
-</div>
-
-#### Databases
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" />
-</div>
-
-#### Mobile, Game & Extras
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="30" />
-</div>
+> ⚡ *Más proyectos en mi perfil → visita mi sección de repositorios públicos.*
 
 ---
 
-### 🧩 IDEs & Tools
+### 🧾 Certifications & Badges
 
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" />
-</div>
+- 🥇 **Cybersecurity Essentials** - Cisco
+- 🥈 **Full Stack Web Developer** - freeCodeCamp
+- 🥉 **TryHackMe: Jr PenTester Path** - [Verified](https://tryhackme.com/)
+- 🎓 **Ethical Hacking** - Udemy & Open Bootcamp
+- 🧪 **API Design** - Postman & RapidAPI
+- 👨‍🏫 **Agile & Scrum Fundamentals** - OpenClassrooms
 
 ---
 
-### 🌐 Connect with Me
+### 🛠️ Services I Offer
 
-<div align="left">
+| Service | Description |
+|--------|-------------|
+| 💻 Web Development | Full stack apps with secure and scalable architecture |
+| 🧪 API Creation | REST & GraphQL APIs, documentation, and integrations |
+| 🔐 Security Audits | Basic penetration testing, hardening & secure coding |
+| 🧠 Tech Consulting | Helping small teams & creators build better systems |
+| 🕹️ Minecraft Modding | Advanced server setups, mods, plugins & Discord bots |
+
+> 💼 Looking for collaboration or freelance work? I'm open for remote projects!
+
+---
+
+### ✍️ Latest Blog Posts *(optional if you want dev.to integration)*
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+> *Puedes conectar tu blog o Medium/Dev.to con GitHub Actions para que esta sección se actualice automáticamente.*
+
+---
+
+### 🧷 Testimonials (opcional)
+
+> *“Juan Pablo saved our backend and optimized our whole process in just a week. Brilliant and kind person!”*  
+> — *Startup Founder from 🇲🇽*
+
+> *“No solo sabe, enseña. Siempre dispuesto a ayudar y explicar con paciencia.”*  
+> — *Estudiante de programación en Discord*
+
+> Agrega tus testimonios aquí o pídelos a tus colegas/clientes en GitHub, Discord o LinkedIn.
+
+---
+
+### 🤝 Let's Connect
+
+<p align="left">
   <a href="https://instagram.com/juanpablomh_omg" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:moralesherrerajuanpablo63@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35"/>
+  <a href="mailto:moralesherrerajuanpablo63@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://discord.com/invite/VJxGnpKra7" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35"/>
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-</div>
+</p>
 
 ---
 
-### 🧠 Quote I live by
+### 🧠 Final Thought
 
-> “Technology, when used with purpose, becomes power. When shared, it becomes legacy.”  
+> “Code is like art — but it runs.”  
 > — *Juan Pablo Morales Herrera*
 
