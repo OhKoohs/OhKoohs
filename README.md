@@ -98,10 +98,3 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/OhKoohs/OhKoohs/output/snake.svg" alt="Snake animation" />
-
-###
