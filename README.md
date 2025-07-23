@@ -1,100 +1,100 @@
 <h1 align="center">🚀 Juan Pablo Morales Herrera — @OhKoohs</h1>
-<h3 align="center">Full Stack Developer | Systems Engineer | Cybersecurity Expert 🇨🇷</h3>
+<h3 align="center">Desarrollador Full Stack | Ingeniero en Sistemas | Experto en Ciberseguridad 🇨🇷</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&color=0FFCC6FF&size=28&lines=Building+Powerful+Web+Experiences;Crafting+Secure+and+Scalable+Solutions;From+Costa+Rica+to+the+World" alt="typing animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&color=0FFCC6FF&size=28&lines=Construyendo+Experiencias+Web+Poderosas;Creando+Soluciones+Seguras+y+Escalables;Desde+Costa+Rica+para+el+Mundo" alt="Animación de tipeo" />
 </p>
 
 ---
 
-### 📈 GitHub Overview & Stats
+### 📊 Resumen y Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OhKoohs&show_icons=true&count_private=true&theme=tokyonight&hide_border=false" width="460" alt="Juan Pablo's GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OhKoohs&theme=tokyonight&hide_border=false" width="420" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=OhKoohs&show_icons=true&count_private=true&theme=dark&hide_border=false&locale=es" width="460" alt="Estadísticas de GitHub de Juan Pablo"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OhKoohs&theme=dark&hide_border=false" width="420" alt="Racha de contribuciones"/>
 </div>
 
 <div align="center" style="margin-top:15px;">
-  <img src="https://github-profile-trophy.vercel.app/?username=OhKoohs&theme=dracula&column=6&margin-w=10&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=OhKoohs&theme=radical&column=6&margin-w=10&margin-h=15" alt="Trofeos de GitHub" />
 </div>
 
 <div align="center" style="margin-top:10px;">
-  <img src="https://komarev.com/ghpvc/?username=OhKoohs&label=Profile+Views&color=blueviolet&style=flat-square" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=OhKoohs&label=Visitas+al+Perfil&color=blueviolet&style=flat-square" alt="Visitas al perfil" />
 </div>
 
 ---
 
-### 🧠 About Me
+### 🧠 Sobre Mí
 
-<p align="left" style="max-width:800px;">
-  👋 Hi, I'm <strong>Juan Pablo Morales Herrera</strong>, aka <em>Koohs</em>, a passionate Systems Engineer and Full Stack Developer from <strong>Costa Rica 🇨🇷</strong>.  
-  I specialize in building robust, scalable web applications, with a strong focus on cybersecurity and performance optimization.  
-  Founder of <a href="https://github.com/OhKoohs/CognixionStudio" target="_blank" rel="noopener noreferrer">Cognixion Studio</a>, where I develop creative solutions for digital creators, game modding, and secure infrastructure.  
-  I love clean code, open source, and pushing technology with purpose.
+<p align="justify" style="max-width:800px;">
+  👋 Hola, soy <strong>Juan Pablo Morales Herrera</strong>, conocido como <em>Koohs</em>. Soy un apasionado Ingeniero en Sistemas y Desarrollador Full Stack desde <strong>Costa Rica 🇨🇷</strong>.  
+  Me especializo en crear aplicaciones web robustas y escalables, con un enfoque fuerte en ciberseguridad y optimización de rendimiento.  
+  Fundador de <a href="https://github.com/OhKoohs/CognixionStudio" target="_blank" rel="noopener noreferrer">Cognixion Studio</a>, donde desarrollo soluciones creativas para creadores digitales, modding de juegos y seguridad informática.  
+  Amo el código limpio, el software libre y llevar la tecnología con propósito.
 </p>
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Proyectos Destacados
 
 <table>
   <thead>
     <tr>
-      <th align="left">Project</th>
-      <th align="left">Description</th>
-      <th align="left">Tech Stack</th>
+      <th align="left">Proyecto</th>
+      <th align="left">Descripción</th>
+      <th align="left">Tecnologías</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><a href="https://github.com/OhKoohs/PulperiaTioAlfredo" target="_blank" rel="noopener noreferrer">Pulpería Tío Alfredo</a></td>
-      <td>Inventory management system for small businesses using Tkinter & SQLite.</td>
+      <td>Sistema de gestión de inventarios para microempresas con Tkinter y SQLite.</td>
       <td>
-        <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/-Tkinter-FFCA28?style=flat&logo=python" alt="Tkinter" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Tkinter-FFCA28?style=flat&logo=python" alt="Tkinter" />
       </td>
     </tr>
     <tr>
       <td><a href="https://github.com/OhKoohs/MinecraftModSuite" target="_blank" rel="noopener noreferrer">Minecraft Mod Suite</a></td>
-      <td>Administration & customization tools for Minecraft servers.</td>
+      <td>Herramientas para administración y personalización de servidores Minecraft.</td>
       <td>
-        <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java&logoColor=white" alt="Java" />
-        <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" alt="Java" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
       </td>
     </tr>
     <tr>
       <td><a href="https://github.com/OhKoohs/CognixionStudio" target="_blank" rel="noopener noreferrer">Cognixion Studio</a></td>
-      <td>Modular platform for web, games, bots, and cybersecurity solutions.</td>
+      <td>Plataforma modular para web, juegos, bots y soluciones de ciberseguridad.</td>
       <td>
-        <img src="https://img.shields.io/badge/-Next.js-000?style=flat&logo=nextdotjs" alt="Next.js" />
-        <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react" alt="React" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs" alt="Next.js" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react" alt="React" />
       </td>
     </tr>
   </tbody>
 </table>
 
-> ⚡ More projects & contributions on my GitHub repositories.
+> ⚡ Más proyectos y contribuciones en mi perfil público de GitHub.
 
 ---
 
-### 🧾 Certifications & Achievements
+### 🧾 Certificaciones y Logros
 
-<div align="center">
+<div align="center" style="gap:8px; display:flex; flex-wrap: wrap; justify-content: center;">
   <img src="https://img.shields.io/badge/Cisco-Cybersecurity%20Essentials-blue?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Cybersecurity Essentials" />
-  <img src="https://img.shields.io/badge/freeCodeCamp-Full%20Stack%20Web%20Developer-brightgreen?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="freeCodeCamp" />
+  <img src="https://img.shields.io/badge/freeCodeCamp-Desarrollador%20Full%20Stack-brightgreen?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="freeCodeCamp Full Stack" />
   <img src="https://img.shields.io/badge/TryHackMe-Jr%20PenTester%20Path-purple?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Jr PenTester" />
-  <img src="https://img.shields.io/badge/Udemy-Ethical%20Hacking-red?style=for-the-badge&logo=udemy&logoColor=white" alt="Udemy Ethical Hacking" />
-  <img src="https://img.shields.io/badge/Postman-API%20Design-orange?style=for-the-badge&logo=postman&logoColor=white" alt="Postman API Design" />
-  <img src="https://img.shields.io/badge/OpenClassrooms-Agile%20Scrum-blue?style=for-the-badge&logo=openclassrooms&logoColor=white" alt="OpenClassrooms Agile Scrum" />
+  <img src="https://img.shields.io/badge/Udemy-Hacking%20Ético-red?style=for-the-badge&logo=udemy&logoColor=white" alt="Udemy Ethical Hacking" />
+  <img src="https://img.shields.io/badge/Postman-Diseño%20de%20API-orange?style=for-the-badge&logo=postman&logoColor=white" alt="Postman API Design" />
+  <img src="https://img.shields.io/badge/OpenClassrooms-Agile%20y%20Scrum-blue?style=for-the-badge&logo=openclassrooms&logoColor=white" alt="OpenClassrooms Agile Scrum" />
 </div>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Stack Tecnológico y Herramientas
 
-#### Languages & Frameworks
+#### Lenguajes y Frameworks
 
-<div align="left" style="margin-bottom:8px;">
+<div align="left" style="margin-bottom:10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
@@ -108,9 +108,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="30" alt="Swift" />
 </div>
 
-#### Databases & DevOps
+#### Bases de Datos y DevOps
 
-<div align="left" style="margin-bottom:8px;">
+<div align="left" style="margin-bottom:10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="SQLite" />
@@ -118,9 +118,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux" />
 </div>
 
-#### IDEs & Tools
+#### IDEs y Herramientas
 
-<div align="left" style="margin-bottom:8px;">
+<div align="left" style="margin-bottom:10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VS Code" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="PyCharm" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" height="30" alt="PhpStorm" />
@@ -131,26 +131,26 @@
 
 ---
 
-### 🎮 Fun & Personality
+### 🎮 Personalidad y Pasatiempos
 
-<img align="right" height="150" src="https://d.furaffinity.net/art/leviathinh/1574394402/1574394402.leviathinh_glitch.finish.gif" alt="Cool Glitch GIF" />
+<img align="right" height="150" src="https://d.furaffinity.net/art/leviathinh/1574394402/1574394402.leviathinh_glitch.finish.gif" alt="GIF estilo glitch" />
 
-- 🔐 Advocate for cybersecurity & digital privacy  
-- 🎮 Gamer & Minecraft modder  
-- 🎤 Occasional voice actor and audio producer  
-- ☕ Coffee lover and lifelong learner  
-- 🇨🇷 Proud Costa Rican innovator  
+- 🔐 Apasionado por la ciberseguridad y la privacidad digital  
+- 🎮 Gamer y creador de mods para Minecraft  
+- 🎤 Actor de voz y productor de audio en ratos libres  
+- ☕ Amante del café y aprendiz de por vida  
+- 🇨🇷 Innovador orgulloso de Costa Rica  
 
 ---
 
-### 📬 Connect with Me
+### 📬 Conectemos
 
-<div align="left">
+<div align="left" style="gap:12px; display:flex; flex-wrap: wrap;">
   <a href="https://instagram.com/juanpablomh_omg" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&style=for-the-badge" alt="Instagram" height="35" />
   </a>
   <a href="mailto:moralesherrerajuanpablo63@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&style=for-the-badge" alt="Gmail" height="35" />
+    <img src="https://img.shields.io/static/v1?message=Correo&logo=gmail&color=D14836&style=for-the-badge" alt="Correo Gmail" height="35" />
   </a>
   <a href="https://discord.com/invite/VJxGnpKra7" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&style=for-the-badge" alt="Discord" height="35" />
@@ -159,31 +159,20 @@
 
 ---
 
-### ✍️ Latest Blog Posts
+### 📝 Últimos Posts en el Blog
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-> *Connect your Dev.to or Medium blog via GitHub Actions to keep this section updated automatically.*
+> *Conecta tu blog en Dev.to, Medium o Notion usando GitHub Actions para mantener esta sección actualizada automáticamente.*
 
 ---
 
-### 🧷 Testimonials (Optional)
+### 🧠 Frase Final
 
-> *“Juan Pablo optimized our platform’s backend in record time — professional, reliable, and knowledgeable.”*  
-> — *Tech Startup Founder 🇲🇽*
-
-> *“Always willing to help and teach — a true mentor in the developer community.”*  
-> — *Programming Student*
-
----
-
-### 🧠 Final Thought
-
-> “Code is like art — but it runs.”  
+> “El código es como el arte — pero que funciona.”  
 > — *Juan Pablo Morales Herrera*
 
 ---
 
-<!-- Thanks for visiting! 🚀 -->
-
+<!-- ¡Gracias por visitar! 🚀 -->
