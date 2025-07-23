@@ -14,10 +14,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=OhKoohs&theme=dark&hide_border=false" width="420" alt="Racha de contribuciones"/>
 </div>
 
-<div align="center" style="margin-top:15px;">
-  <img src="https://github-profile-trophy.vercel.app/?username=OhKoohs&theme=radical&column=6&margin-w=10&margin-h=15" alt="Trofeos de GitHub" />
-</div>
-
 <div align="center" style="margin-top:10px;">
   <img src="https://komarev.com/ghpvc/?username=OhKoohs&label=Visitas+al+Perfil&color=blueviolet&style=flat-square" alt="Visitas al perfil" />
 </div>
