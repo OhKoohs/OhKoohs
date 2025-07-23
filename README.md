@@ -52,7 +52,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/OhKoohs/PulperiaTioAlfredo" target="_blank" rel="noopener noreferrer">Pulpería Tío Alfredo</a></td>
+      <td><a href="https://github.com/OhKoohs/SistemaPulperia" target="_blank" rel="noopener noreferrer">SistemaPulpería</a></td>
       <td>Sistema de gestión de inventarios para microempresas con Tkinter y SQLite.</td>
       <td>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
