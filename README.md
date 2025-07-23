@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is iCognitoo and I'm a Web Developer, from Costa Rica</h2>
+<h2 align="left">Hi 👋! My name is Koohs and I'm a Web Developer, from Costa Rica</h2>
 
 ###
 
