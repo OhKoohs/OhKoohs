@@ -154,16 +154,26 @@
   </a>
 </div>
 
----
-
-### 📝 Últimos Posts en el Blog
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-> *Conecta tu blog en Dev.to, Medium o Notion usando GitHub Actions para mantener esta sección actualizada automáticamente.*
+### 🔧 Currently Working On
+- 💼 Freelance full-stack projects
+- 🚀 Building SaaS tools with Next.js, Prisma & Tailwind
+- 🛡️ Exploring offensive & defensive cybersecurity practices
+- 🎓 Expanding skills in AI & backend distributed systems
 
 ---
+
+### 🧠 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=OhKoohs&theme=radical&no-frame=true&no-bg=true&margin-w=10" />
+</div>
+
+---
+
+### 🕓 GitHub Contributions
+<div align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=OhKoohs&theme=dracula" alt="GitHub Contribution Graph" />
+</div>
+
 
 ### 🧠 Frase Final
 
