@@ -2,9 +2,8 @@
 <h3 align="center">Desarrollador Full Stack | Ingeniero en Sistemas | Experto en Ciberseguridad 🇨🇷</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&color=0FFCC6FF&size=28&lines=Construyendo+Experiencias+Web+Poderosas;Creando+Soluciones+Seguras+y+Escalables;Desde+Costa+Rica+para+el+Mundo" alt="Animación de tipeo" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0FFCC6&center=true&vCenter=true&width=600&lines=Construyendo+Experiencias+Web+Poderosas;Creando+Soluciones+Seguras+y+Escalables;Desde+Costa+Rica+para+el+Mundo" alt="Typing animation" />
 </p>
-
 ---
 
 ### 📊 Resumen y Estadísticas de GitHub
