@@ -38,7 +38,6 @@
   <br><br>
    ¿Buscas colaborar en un proyecto ambicioso, una mentoría, un desafío técnico o una solución a medida? ¡Estoy abierto a conectar contigo!  
 </p>
----
 
 ### 🚀 Proyectos Destacados
 
